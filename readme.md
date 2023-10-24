@@ -12,12 +12,15 @@
 Kertas yang digunakan untuk penulisan makalah di Word menggunakan format kertas `A4` dengan lebar `21cm` dan tinggi `29,7cm`.
 
 Pilih menu `layout` kemudian masukkan ke tool `margins`:
+
 ![Step Pertama](img/kertas/langkah1.png)
 
 Klik costume margins:
+
 ![Custome Margins...](img/kertas/langkah2.png)
 
 Setelah itu atur Paper-nya:
+
 ![Paper Setup](img/kertas/langkah3.png)
 
 ## Margin
@@ -30,12 +33,15 @@ Format penulisan margin pada makalah yang digunakan secara umum adalah 4-4-3-3.
     bawah = 3
 
 Pilih menu `layout` kemudian masukkan ke tool `margins`:
+
 ![Step Pertama](img/kertas/langkah1.png)
 
 Klik costume margins:
+
 ![Custome Margins...](img/kertas/langkah2.png)
 
 Setelah itu atur Margins-nya `4-4-3-3`:
+
 ![](img/margin/langkah1.png)
 
 ## Jenis Font
@@ -43,9 +49,11 @@ Setelah itu atur Margins-nya `4-4-3-3`:
 Jenis font yang digunakan pada makalah biasanya `Times New Roman` dengan ukuran `12`.
 
 Klik kanan pada `Normal` kemudian klik menu `Modify`:
+
 ![Normal Heading](img/jenis-font/langkah1.png)
 
 Kemudian modify style ubah font ke `Times New Roman` ukuran font `12` dan align `justify`:
+
 ![Modify Style](img/jenis-font/langkah2.png)
 
 ## Ukuran Spasi
