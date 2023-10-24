@@ -6,6 +6,8 @@
 - [Jenis Font](#jenis-font)
 - [Ukuran Spasi](#ukuran-spasi)
 - [Heading](#heading)
+- [Page Breaks](#page-breaks)
+- [Daftar Isi Otomatis](#aftar-isi-otomatis)
 
 ## Kertas
 
@@ -81,3 +83,34 @@ Kita akan atur `Heading 1` untuk sebuah BAB:
 Kemudian Atur untuk `Heading 2` untu Sub Bab:
 
 ![Modify Heading 2](./img/heading/langkah4.png)
+
+## Page Breaks
+
+Page Breaks digunakan untuk membedakan antara Page `Cover, Kata Pengantar, Daftar` dengan Page `BAB`:
+
+Pisahkan page seperti berikut ini:
+
+![Page1](./img/page-breaks/langkah1.png)
+
+Klik `Next Page` untuk memisahkan page:
+
+![Page breaks](./img/page-breaks/langkah2.png)
+
+Setelah `Next Page` di-klik maka akan dibuatkan satu page baru yang berbeda dengan page awal
+![2 Page Terbuat](./img/page-breaks/langkah3.png)
+
+Kemudian Anda dapat membedakan antara Page Daftar dan Page BAB:
+
+![Page Terpisah](./img/page-breaks/langkah4.png)
+
+## Daftar Isi Otomatis
+
+Daftar isi otomatis digunakan untuk membuat sebuah daftar isi yang dimana kita tidak perlu mengatur daftar halaman tersebut secara, kita hanya meng-update untuk membuat perubahan pada Daftar isi.
+
+Langkah awal klik menu `References` kemudian klik `Table of Contents` lalu pilih `Automatic Table 2`:
+
+![](./img/daftar-isi/langkah1.png)
+
+Setelah itu, maka akan muncul `Table of Contents` pada halaman yang dipilih. Kemudian Anda dapat mengganti `Table of Contents` menjadi `Daftar Isi` dengan menggunakan `Heading 1`:
+
+![](./img/daftar-isi/langkah2.png)
