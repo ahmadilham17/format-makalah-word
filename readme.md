@@ -80,4 +80,5 @@ Kita akan atur `Heading 1` untuk sebuah BAB:
 
 Kemudian Atur untuk `Heading 2` untu Sub Bab:
 
-<img src="img/heading/langkah4.png" alt="Modify Heading 2" style="pointer-events: none;">
+![Modify Heading 2](./img/heading/langkah4.png)
+<img src="./img/heading/langkah4.png" alt="Deskripsi Gambar" style="pointer-events: none; user-drag: none; user-select: none;">
