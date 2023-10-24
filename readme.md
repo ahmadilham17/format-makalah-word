@@ -62,3 +62,22 @@ Spacing atau spasi adalah jarak antar-baris dalam penulisan. Ukuran spasi pada m
 
 ![Modify Style Ukuran Spasi](img/ukuran-spasi/langkah1.png)
 
+## Heading
+
+Heading digunakan untuk membuat halaman BAB dan Sub Bab.
+
+Langkah pertama klik tool `Multilevel List` kemudian klik `Define New Multilevel List`:
+
+![Multilevel list](img/heading/langkah1.png)
+
+Klik `More` untuk mendapatkan lebih banyak modifikasi:
+
+![Define New Multilevel List](img/heading/langkah2.png)
+
+Kita akan atur `Heading 1` untuk sebuah BAB:
+
+![Modify Heading 1](img/heading/langkah3.png)
+
+Kemudian Atur untuk `Heading 2` untu Sub Bab:
+
+<img src="img/heading/langkah4.png" alt="Modify Heading 2" style="pointer-events: none;">
