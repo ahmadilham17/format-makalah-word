@@ -1,6 +1,7 @@
 # Standar Format Penulisan Makalah di Word
 
 ## Konten tabel
+- [Download Template](template/template_format_makalah.docx)
 - [Kertas](#kertas)
 - [Margin](#margin)
 - [Jenis Font](#jenis-font)
